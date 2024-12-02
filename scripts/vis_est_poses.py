@@ -48,7 +48,7 @@ p = {
   # of the format. Example results can be found at:
   # http://ptak.felk.cvut.cz/6DB/public/bop_sample_results/bop_challenge_2019/
   'result_filenames': [
-    '/path/to/csv/with/results',
+    'zebrapose_lmo-test.csv',
   ],
 
   # Folder containing the BOP datasets.
